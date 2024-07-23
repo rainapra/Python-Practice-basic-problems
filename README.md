@@ -7,3 +7,7 @@ some basic python problems done in Atom IDE
 4) largest_smallest - fidnd the largest and smallest nunber based on inputs given by user
 5) scorerange -  display grade based on the score entered by suer
 6) Tic-tac-Toe game
+7) split words
+8) Print calendar
+9) check if number is prime or not
+10) print all prime numbers between range
