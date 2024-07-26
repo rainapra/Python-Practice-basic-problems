@@ -1,4 +1,4 @@
-# Python-Practice-basic-problems
+# Python_Interview_Problems
 some basic python problems done in Atom IDE
 
 1) Grosspay - calculate pay based on hourly rate and number of hours
